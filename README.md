@@ -21,3 +21,19 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   [Google DeepMind Website](https://deepmind.google/)
 *   [DeepMind Blog](https://deepmind.google/discover/blog/)
 *   [DeepMind Research](https://deepmind.google/research/)
+
+
+## Latest Updates (2026-03-01)
+
+### Recent ArXiv Papers (DeepMind)
+*   **[2026-02-24]** [Aletheia tackles FirstProof autonomously](http://arxiv.org/abs/2602.21201v1)
+*   **[2026-02-23]** [Meta-Learning and Meta-Reinforcement Learning - Tracing the Path towards DeepMind's Adaptive Agent](http://arxiv.org/abs/2602.19837v1)
+*   **[2026-02-23]** [Advantage-based Temporal Attack in Reinforcement Learning](http://arxiv.org/abs/2602.19582v1)
+*   **[2026-02-15]** [WIMLE: Uncertainty-Aware World Models with IMLE for Sample-Efficient Continuous Control](http://arxiv.org/abs/2602.14351v1)
+*   **[2026-02-13]** [Unifying Model-Free Efficiency and Model-Based Representations via Latent Dynamics](http://arxiv.org/abs/2602.12643v1)
+### Recently Updated GitHub Repos
+*   **[2026-03-01]** [superhuman](https://github.com/google-deepmind/superhuman): None
+*   **[2026-03-01]** [alphafold3](https://github.com/google-deepmind/alphafold3): AlphaFold 3 inference pipeline.
+*   **[2026-02-28]** [alphageometry](https://github.com/google-deepmind/alphageometry): None
+*   **[2026-02-28]** [formal-conjectures](https://github.com/google-deepmind/formal-conjectures): A collection of formalized statements of conjectures in Lean.
+*   **[2026-02-28]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
