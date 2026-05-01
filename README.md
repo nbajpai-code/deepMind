@@ -46,3 +46,18 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-04-01]** [barkour_robot](https://github.com/google-deepmind/barkour_robot): Barkour Robot: Agile Quadruped Robots by Google DeepMind
 *   **[2026-04-01]** [gemma](https://github.com/google-deepmind/gemma): Gemma open-weight LLM library, from Google DeepMind
 *   **[2026-04-01]** [disco_rl](https://github.com/google-deepmind/disco_rl): Accompanying code for "Discovering State-of-the-art Reinforcement Algorithms" Nature publication
+
+## Latest Updates (2026-05-01)
+
+### Recent ArXiv Papers (DeepMind)
+*   **[2026-04-29]** [Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](http://arxiv.org/abs/2604.26275v1)
+*   **[2026-04-27]** [Agent-Centric Visual Reinforcement Learning under Dynamic Perturbations](http://arxiv.org/abs/2604.24661v2)
+*   **[2026-04-25]** [ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](http://arxiv.org/abs/2604.23099v1)
+*   **[2026-04-23]** [Lessons from External Review of DeepMind's Scheming Inability Safety Case](http://arxiv.org/abs/2604.21964v1)
+*   **[2026-04-21]** [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](http://arxiv.org/abs/2604.18978v1)
+### Recently Updated GitHub Repos
+*   **[2026-05-01]** [android_env](https://github.com/google-deepmind/android_env): RL research on Android devices.
+*   **[2026-05-01]** [proeval](https://github.com/google-deepmind/proeval): Proactive failure discovery and efficient performance estimation for GenAI evaluation.
+*   **[2026-05-01]** [habermas_machine](https://github.com/google-deepmind/habermas_machine): None
+*   **[2026-05-01]** [proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents): Code release for the paper, "Proactive Agents for Text-to-Image Generation under Uncertainty"
+*   **[2026-05-01]** [mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie): A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
