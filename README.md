@@ -61,3 +61,12 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-05-01]** [habermas_machine](https://github.com/google-deepmind/habermas_machine): None
 *   **[2026-05-01]** [proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents): Code release for the paper, "Proactive Agents for Text-to-Image Generation under Uncertainty"
 *   **[2026-05-01]** [mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie): A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
+
+## Latest Updates (2026-06-01)
+
+### Recently Updated GitHub Repos
+*   **[2026-06-01]** [science-skills](https://github.com/google-deepmind/science-skills): GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.
+*   **[2026-06-01]** [open_x_embodiment](https://github.com/google-deepmind/open_x_embodiment): None
+*   **[2026-06-01]** [alphafold3](https://github.com/google-deepmind/alphafold3): AlphaFold 3 inference pipeline.
+*   **[2026-06-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+*   **[2026-06-01]** [jax_privacy](https://github.com/google-deepmind/jax_privacy): Algorithms for Privacy-Preserving Machine Learning in JAX
