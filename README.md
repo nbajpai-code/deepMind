@@ -70,3 +70,12 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-06-01]** [alphafold3](https://github.com/google-deepmind/alphafold3): AlphaFold 3 inference pipeline.
 *   **[2026-06-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 *   **[2026-06-01]** [jax_privacy](https://github.com/google-deepmind/jax_privacy): Algorithms for Privacy-Preserving Machine Learning in JAX
+
+## Latest Updates (2026-07-01)
+
+### Recently Updated GitHub Repos
+*   **[2026-07-01]** [gemma](https://github.com/google-deepmind/gemma): Gemma open-weight LLM library, from Google DeepMind
+*   **[2026-07-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+*   **[2026-07-01]** [superhuman](https://github.com/google-deepmind/superhuman): None
+*   **[2026-07-01]** [meltingpot](https://github.com/google-deepmind/meltingpot): A suite of test scenarios for multi-agent reinforcement learning.
+*   **[2026-07-01]** [long-form-factuality](https://github.com/google-deepmind/long-form-factuality): Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
