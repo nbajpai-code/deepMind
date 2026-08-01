@@ -79,3 +79,12 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-07-01]** [superhuman](https://github.com/google-deepmind/superhuman): None
 *   **[2026-07-01]** [meltingpot](https://github.com/google-deepmind/meltingpot): A suite of test scenarios for multi-agent reinforcement learning.
 *   **[2026-07-01]** [long-form-factuality](https://github.com/google-deepmind/long-form-factuality): Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
+
+## Latest Updates (2026-08-01)
+
+### Recently Updated GitHub Repos
+*   **[2026-08-01]** [gemma](https://github.com/google-deepmind/gemma): Gemma open-weight LLM library, from Google DeepMind
+*   **[2026-08-01]** [acme](https://github.com/google-deepmind/acme): A library of reinforcement learning components and agents
+*   **[2026-08-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+*   **[2026-08-01]** [mujoco_playground](https://github.com/google-deepmind/mujoco_playground): An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
+*   **[2026-08-01]** [open_x_embodiment](https://github.com/google-deepmind/open_x_embodiment): None
