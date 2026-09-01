@@ -88,3 +88,12 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-08-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 *   **[2026-08-01]** [mujoco_playground](https://github.com/google-deepmind/mujoco_playground): An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
 *   **[2026-08-01]** [open_x_embodiment](https://github.com/google-deepmind/open_x_embodiment): None
+
+## Latest Updates (2026-09-01)
+
+### Recently Updated GitHub Repos
+*   **[2026-09-01]** [deepmind-research](https://github.com/google-deepmind/deepmind-research): This repository contains implementations and illustrative code to accompany DeepMind publications
+*   **[2026-09-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+*   **[2026-09-01]** [open_spiel](https://github.com/google-deepmind/open_spiel): OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+*   **[2026-09-01]** [mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset): This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
+*   **[2026-09-01]** [language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression): None
