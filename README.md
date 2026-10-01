@@ -97,3 +97,18 @@ This repository is automatically updated monthly via GitHub Actions to include t
 *   **[2026-09-01]** [open_spiel](https://github.com/google-deepmind/open_spiel): OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 *   **[2026-09-01]** [mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset): This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 *   **[2026-09-01]** [language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression): None
+
+## Latest Updates (2026-10-01)
+
+### Recent ArXiv Papers (DeepMind)
+*   **[2026-09-26]** [Neural ODEs Meet Concurrent Learning: Stable Online Learning with Lyapunov Guarantees](http://arxiv.org/abs/2609.32289v1)
+*   **[2026-09-25]** [Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing](http://arxiv.org/abs/2609.31077v1)
+*   **[2026-09-25]** [StarWM: Self-Supervised Trained Attention Routing for Robust World Models](http://arxiv.org/abs/2609.30667v1)
+*   **[2026-09-24]** [High Rank and Multiplicity in Random and Perfect Profinite Groups](http://arxiv.org/abs/2609.30200v1)
+*   **[2026-09-24]** [Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices](http://arxiv.org/abs/2609.35833v1)
+### Recently Updated GitHub Repos
+*   **[2026-10-01]** [synthidbio](https://github.com/google-deepmind/synthidbio): SynthID Bio is a family of methods developed by Google DeepMind for embedding highly detectable yet function-preserving watermarks directly into AI-generated biological sequences and structures.
+*   **[2026-10-01]** [mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+*   **[2026-10-01]** [weathernext](https://github.com/google-deepmind/weathernext): None
+*   **[2026-10-01]** [science-skills](https://github.com/google-deepmind/science-skills): GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.
+*   **[2026-10-01]** [mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset): This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
